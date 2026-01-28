@@ -83,6 +83,10 @@ public class PathSum {
 }
 
 
+//Dijkstra's algorithm is a popular graph search algorithm that finds the shortest path from 
+//a single source node to all other nodes in a weighted graph with non-negative edge weights
+
+
 //Given the root of a binary tree and an integer targetSum, return true if the tree has a root-to-leaf path such that adding up all the values along the path equals targetSum.
 //A leaf is a node with no children.
 //Example 1
