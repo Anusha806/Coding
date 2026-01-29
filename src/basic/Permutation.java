@@ -38,7 +38,7 @@ public class Permutation {
 
     public static void main(String[] args) {
 
-        int[] nums = {1, 2, 3};
+        int[] nums = {3, 2, 1};
 
         permute(nums, 0);
 
